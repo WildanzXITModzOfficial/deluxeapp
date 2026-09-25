@@ -3,7 +3,7 @@
   "wsUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
   "backendUrl": "https://indie-survey-lifetime-somehow.trycloudflare.com",
   "wsBackendUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
-  "maintenance": false,
+  "maintenance": true,
   "forceUpdate": false,
   "versionCode": "1.0.0",
   "apkUrl": "",
