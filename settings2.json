@@ -1,0 +1,6 @@
+{
+  "api_base_url": "http://papa.queen-official.com:2039",
+  "ws_base_url": "wss://papa.queen-official.com:2039",
+  "api_backend_url": "http://papa.queen-official.com:1914",
+  "ws_backend_url": "wss://papa.queen-official.com:1914"
+}
