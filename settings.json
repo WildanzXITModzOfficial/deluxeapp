@@ -1,8 +1,11 @@
 {
-  "serverUrl": "http://server-kamu.com:2002",
+  "serverUrl": "http://papa.queen-official.com:2039",
+  "wsUrl": "wss://papa.queen-official.com:2039",
+  "backendUrl": "http://papa.queen-official.com:1914",
+  "wsBackendUrl": "wss://papa.queen-official.com:1914",
   "maintenance": false,
   "forceUpdate": false,
-  "versionCode": "1.0.5",
-  "apkUrl": "https://link-download-apk.com/app.apk",
-  "updateMessage": "Update tersedia! Fitur baru: ..."
+  "versionCode": "1.0.0",
+  "apkUrl": "",
+  "updateMessage": ""
 }
