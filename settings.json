@@ -1,7 +1,7 @@
 {
-  "serverUrl": "http://pterodactyl-free.hostkita.help:20740",
+  "serverUrl": "https://once-eligible-desire-angeles.trycloudflare.com",
   "wsUrl": "wss://pterodactyl-free.hostkita.help:20740",
-  "backendUrl": "http://pterodactyl-free.hostkita.help:20740",
+  "backendUrl": "https://once-eligible-desire-angeles.trycloudflare.com",
   "wsBackendUrl": "wss://pterodactyl-free.hostkita.help:20740",
   "maintenance": false,
   "forceUpdate": false,
