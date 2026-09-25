@@ -3,7 +3,7 @@
   "wsUrl": "wss://pterodactyl-free.hostkita.help:20740",
   "backendUrl": "https://once-eligible-desire-angeles.trycloudflare.com",
   "wsBackendUrl": "wss://pterodactyl-free.hostkita.help:20740",
-  "maintenance": false,
+  "maintenance": true,
   "forceUpdate": false,
   "versionCode": "1.0.0",
   "apkUrl": "",
