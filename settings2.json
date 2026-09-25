@@ -1,6 +1,6 @@
 {
-  "api_base_url": "http://papa.queen-official.com:2039",
-  "ws_base_url": "wss://papa.queen-official.com:2039",
-  "api_backend_url": "http://papa.queen-official.com:1914",
-  "ws_backend_url": "wss://papa.queen-official.com:1914"
+  "api_base_url": "http://pterodactyl-free.hostkita.help:20740",
+  "ws_base_url": "wss://pterodactyl-free.hostkita.help:20740",
+  "api_backend_url": "http://pterodactyl-free.hostkita.help:20740",
+  "ws_backend_url": "wss://pterodactyl-free.hostkita.help:20740"
 }
