@@ -1,11 +1,11 @@
 {
-  "serverUrl": "http://papa.queen-official.com:2039",
-  "wsUrl": "wss://papa.queen-official.com:2039",
-  "backendUrl": "http://papa.queen-official.com:1914",
-  "wsBackendUrl": "wss://papa.queen-official.com:1914",
+  "serverUrl": "http://pterodactyl-free.hostkita.help:20740",
+  "wsUrl": "wss://pterodactyl-free.hostkita.help:20740",
+  "backendUrl": "http://pterodactyl-free.hostkita.help:20740",
+  "wsBackendUrl": "wss://pterodactyl-free.hostkita.help:20740",
   "maintenance": false,
   "forceUpdate": false,
   "versionCode": "1.0.0",
   "apkUrl": "",
-  "updateMessage": ""
+  "updateMessage": "OY ENJOY YAAK"
 }
