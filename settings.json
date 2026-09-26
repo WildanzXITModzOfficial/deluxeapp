@@ -1,7 +1,7 @@
 {
-  "serverUrl": "https://indie-survey-lifetime-somehow.trycloudflare.com",
+  "serverUrl": "http://beyy-ptero.panel-host.biz.id:3260",
   "wsUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
-  "backendUrl": "https://indie-survey-lifetime-somehow.trycloudflare.com",
+  "backendUrl": "http://beyy-ptero.panel-host.biz.id:3260",
   "wsBackendUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
   "maintenance": true,
   "forceUpdate": false,
