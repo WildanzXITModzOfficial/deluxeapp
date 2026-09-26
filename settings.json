@@ -1,7 +1,7 @@
 {
-  "serverUrl": "http://beyy-ptero.panel-host.biz.id:3260",
+  "serverUrl": "http://ridoanjaybokep.smasnug.web.id:3834",
   "wsUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
-  "backendUrl": "http://beyy-ptero.panel-host.biz.id:3260",
+  "backendUrl": "http://ridoanjaybokep.smasnug.web.id:3834",
   "wsBackendUrl": "wss://indie-survey-lifetime-somehow.trycloudflare.com",
   "maintenance": true,
   "forceUpdate": false,
